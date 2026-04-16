@@ -1,0 +1,20 @@
+[
+  {
+    "Author": "KaidaQ",
+    "Name": "Gamba Fantasy XIV",
+    "Description": "GOOOOOOOOOOOOOOOOOOOOOOOOOOOOLD",
+    "InternalName": "GambaFantasyXIV",
+    "AssemblyVersion": "0.0.1",
+    "TestingAssemblyVersion": null,
+    "RepoUrl": "https://github.com/KaidaQ/GambaFantasyXIV",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "Punchline": "GAMBLE GAMBLE.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/KaidaQ/GambaFantasyXIV/releases/latest/download/GambaFantasyXIV.zip",
+    "DownloadLinkTesting": null,
+    "DownloadLinkUpdate": "https://github.com/KaidaQ/GambaFantasyXIV/releases/latest/download/GambaFantasyXIV.zip",
+    "LastUpdate": "1710000000"
+  }
+]

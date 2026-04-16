@@ -10,6 +10,7 @@ public enum DropRarity
     Common,
     Uncommon,
     Rare,
+    //stola rarity here
     Epic,
     Legendary,
     Relic
@@ -73,7 +74,7 @@ public static class CaseGame
         new("crate-single", "Moogle Mog Crate", 220, 0, 1, "Mog!"),
         new("runner-bundle", "Bee My Combo", 340, 1, 1, "A key!?!?!? ANNNNNNND A CRATE??!?!?!?"),
         new("wipe-night", "Wipe Night Pack", 980, 3, 2, "The opposite, of Raid Night"),
-        new("degenerate-box", "Recovered Island Supply", 1850, 4, 4, "The label reads... "From Aloalo Island". ")
+        new("degenerate-box", "Recovered Island Supply", 1850, 4, 4, "The label reads... from Aloalo Island...")
     ];
 
     public static CaseDefinition GetCase(string caseId) =>
